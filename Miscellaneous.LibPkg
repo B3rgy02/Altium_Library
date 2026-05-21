@@ -151,6 +151,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXCDUIGR
 
+[Document7]
+DocumentPath=Parts Made\Miscellaneous\ZIF_Tail_2X1X16_0MM5.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NNFAVCHN
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
