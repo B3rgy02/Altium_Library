@@ -202,6 +202,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCVOSCSV
 
+[Document10]
+DocumentPath=Parts Made\Miscellaneous\DUMMY_ZIF.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DBEFXTIV
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
